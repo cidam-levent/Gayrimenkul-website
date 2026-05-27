@@ -1,2 +1,15 @@
-# Gayrimenkul-website
-Ana Sayfa — Hero bölümü, arama filtresi (satılık/kiralık + emlak tipi), istatistikler İlanlar — Konut, arsa, villa, iş yeri, tarla, daire kategorileri Danışmanlar — Ali Can Atalay &amp; Büşra Atalay profilleri Hakkımızda &amp; İletişim sayfaları WhatsApp entegrasyonu ve telefon bağlantısı Adres: Keşan/Edirne, çalışma saatleri, e-posta
+## 🏗️ Projelerim
+
+### Atalay Gayrimenkul Web Sitesi
+> Keşan/Edirne'de faaliyet gösteren gayrimenkul firması için kurumsal web sitesi
+
+🔗 [Canlı Site](https://3000-ib5pdkmz41vzm7wcphwvg-dfc00ec5.sandbox.novita.ai/)
+
+**Özellikler:**
+- Satılık/kiralık ilan filtreleme sistemi
+- WhatsApp & telefon entegrasyonu
+- Mobil uyumlu (responsive) tasarım
+- Danışman profil sayfaları
+- SEO meta etiketleri
+
+**Teknolojiler:** HTML · CSS · JavaScript
